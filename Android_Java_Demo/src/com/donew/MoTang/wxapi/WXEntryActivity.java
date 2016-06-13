@@ -6,7 +6,7 @@
  * Copyright (c) 2013年 ShareSDK.cn. All rights reserved.
  */
 
-package cn.sharesdk.onekeyshare.wxapi;
+package com.donew.MoTang.wxapi;
 
 import android.content.Intent;
 import android.widget.Toast;
